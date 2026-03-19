@@ -8375,6 +8375,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C16581"
+			(at 116.84 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "a1d7b837-4fc3-4d43-a8d5-5d9379fd85e2")
 		)
@@ -8893,6 +8902,15 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 128.27 21.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C42416254"
 			(at 128.27 21.59 0)
 			(effects
 				(font
@@ -9997,6 +10015,15 @@
 			)
 		)
 		(property "Description" "Common 5mm diameter LED"
+			(at 100.33 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2298"
 			(at 100.33 104.14 0)
 			(effects
 				(font
@@ -11283,6 +11310,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C42416254"
+			(at 128.27 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d27bee7d-880a-4ac1-a8a8-db1bc7699e9c")
 		)
@@ -12159,6 +12195,15 @@
 			)
 		)
 		(property "Description" "600mA low dropout linear regulator, with enable pin, 3.8V-6V input voltage range, 3.3V fixed positive output, SOT-23-5"
+			(at 45.72 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C23380830"
 			(at 45.72 31.75 0)
 			(effects
 				(font
@@ -14471,6 +14516,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C165948"
+			(at 251.46 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "B4"
 			(uuid "62397b2d-16c2-42f9-9737-4dc7ea04654a")
 		)
@@ -16487,6 +16541,15 @@
 			)
 		)
 		(property "Description" "Common 5mm diameter LED"
+			(at 100.33 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2298"
 			(at 100.33 107.95 0)
 			(effects
 				(font
