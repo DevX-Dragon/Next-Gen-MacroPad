@@ -20,6 +20,14 @@ The Next-Gen MacroPad is a fully DIY, multi-purpose macro pad kit. It's got prog
 <img width="350" height="140" alt="Assembled Preview" src="https://github.com/user-attachments/assets/d648e4a9-50c2-4c6a-9d29-4041dd0a985d" />
 <img width="350" height="150" alt="Side Side Loo" src="https://github.com/user-attachments/assets/95abf3d7-bc0c-4525-9faa-38e44063e546" />
 
+## Whats inside?
+- `/3D Files` : 3D Files for 3D Printing and Source Files for your own modifcations.
+- `/Firmware` : Firmware for the Macro Pad (CircuitPyhton)
+- `/KiCad Files` : Soruce files for KiCad for your own modifications.
+- `/Images` : Previews of multiple assets
+- `/Production` : Prodution files for PCB manufacturings.
+- `BOM.csv` : Price Breakdown and Links
+
 
 
 ## BOM
