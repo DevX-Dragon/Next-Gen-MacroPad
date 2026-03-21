@@ -1,6 +1,8 @@
 ﻿Product Name,Quanity,Total Price,Notes,Link
-PCBA,5,$110.00,5 PCB w/ 2 PCBA,JLC PCB
-Key Switches,16,$35.00,Pack of 35,https://share.temu.com/qnOeKNn7wBB
-Key Caps,16,$5.00,Pack of 20,https://www.aliexpress.com/item/1005004525231272.html
-,Payment Taxes ,$5.00,,
-,Total,$155.00,,
+PCBA,5,$110.00 ,5 PCB w/ 2 PCBA,JLC PCB
+Key Switches,16,$35.00 ,Pack of 35,https://share.temu.com/qnOeKNn7wBB
+Key Caps,16,$10.00 ,Pack of 20,https://www.aliexpress.com/item/1005004525231272.html
+3D Print,1,$10.00 ,mostly planning on getting it on duino.lk as printing legion is expensive for Sri Lanka,
+OLED display,1,$4.00 ,,https://www.duino.lk/product/oled-display-0-96-inche-blue-yellow/
+6x6x5 THT Push button,1,$1.00 ,,https://www.duino.lk/product/tactile-push-button-switch-2pins-6x6x5mm/
+,Total,$170.00 ,,
