@@ -1,10 +1,6 @@
 ﻿Product Name,Quanity,Total Price,Notes,Link
-PCBA,5,,5 PCB w/ 2 PCBA,JLC PCB
+PCBA,5,$110.00,5 PCB w/ 2 PCBA,JLC PCB
 Key Switches,16,$35.00,Pack of 35,https://share.temu.com/qnOeKNn7wBB
 Key Caps,16,$5.00,Pack of 20,https://www.aliexpress.com/item/1005004525231272.html
-1N4148 THT Diodes,16,$0.32,MOQ 20 | Local,https://www.duino.lk/product/x-1n4148-diode-in4148-4148-switching-diode/
-SSD1306 OLED 0.96,1,$3.00,,https://www.duino.lk/product/oled-display-0-96-white-128x64/
-,,,,
-,Tax,$5.00,,
-,Shipping,$10.00,,
-,Total,$58.32,,
+,Payment Taxes ,$5.00,,
+,Total,$155.00,,
