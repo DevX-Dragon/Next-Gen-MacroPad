@@ -8,8 +8,19 @@ The Next-Gen MacroPad is a fully DIY, multi-purpose macro pad kit. It's got prog
 - Per Key RGB
 
 ## Layout
-<img width="705" height="490" alt="Schematics" src="https://github.com/user-attachments/assets/5d660a66-b624-452f-806a-319540302a0f" />
-<img width="451" height="530" alt="PCB" src="https://github.com/user-attachments/assets/937098fb-aa56-4e1e-be3e-137907474979" />
+### KiCad
+<img width="500" height="350" alt="Schematics" src="https://github.com/user-attachments/assets/5d660a66-b624-452f-806a-319540302a0f" />
+<img width="350" height="530" alt="PCB" src="https://github.com/user-attachments/assets/937098fb-aa56-4e1e-be3e-137907474979" />
+
+### 3D
+<img width="450" height="250" alt="Bottom Enclosure" src="https://github.com/user-attachments/assets/dd9c518a-7f56-4e52-8bfe-0aa010d22525" />
+<img width="400" height="300" alt="Top Cover" src="https://github.com/user-attachments/assets/339afdf3-9014-464b-9616-06c08ffedfe1" />
+
+### Assembled
+<img width="350" height="140" alt="Assembled Preview" src="https://github.com/user-attachments/assets/d648e4a9-50c2-4c6a-9d29-4041dd0a985d" />
+<img width="350" height="150" alt="Side Side Loo" src="https://github.com/user-attachments/assets/95abf3d7-bc0c-4525-9faa-38e44063e546" />
+
+
 
 ## BOM
 | Product Name | Needed Quanity | Price | Additonal Notes |
