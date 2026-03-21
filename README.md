@@ -1,5 +1,5 @@
 # NextGen Macropad
-A macropad with 16 keys that features and OLED as well.
+The Next-Gen MacroPad is a fully DIY, multi-purpose macro pad kit. It's got programmable keys, it looks cool, and most importantly — I made it. A 14-year-old made it. So if it breaks, don't be too surprised, but also it probably won't break because I tested it a bunch.
 
 ## Specifications
 - 16 Programmable Keys
