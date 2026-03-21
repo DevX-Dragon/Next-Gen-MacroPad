@@ -75,12 +75,12 @@ The defaults are:
 
 | Thing | Pins |
 |---|---|
-| Row pins | GPIO4–GPIO7 |
-| Col pins | GPIO8–GPIO11 |
-| NeoPixel data | GPIO48 |
-| OLED SDA | GPIO1 |
-| OLED SCL | GPIO2 |
-| Mode switch | GPIO0 |
+| Row pins | GPIO1–GPIO4 |
+| Col pins | GPIO5–GPIO8 |
+| NeoPixel data | GPIO18 |
+| OLED SDA | GPIO9 |
+| OLED SCL | GPIO10 |
+| Mode switch | GPIO12 |
 
 If yours are different, just change the numbers. That's literally all you have to do.
 

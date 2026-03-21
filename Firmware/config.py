@@ -5,8 +5,8 @@ import board
 
 # ─── KEY MATRIX PINS ──────────────────────────────────────────────────────────
 # 4x4 matrix — 4 rows, 4 cols = 16 keys
-ROW_PINS = [board.GPIO4, board.GPIO5, board.GPIO6, board.GPIO7]
-COL_PINS = [board.GPIO8, board.GPIO9, board.GPIO10, board.GPIO11]
+ROW_PINS = [board.GPIO1, board.GPIO2, board.GPIO3, board.GPIO4]
+COL_PINS = [board.GPIO5, board.GPIO6, board.GPIO7, board.GPIO8]
 
 # ─── NEOPIXEL ─────────────────────────────────────────────────────────────────
 NEOPIXEL_PIN   = board.GPIO18   # Data pin for NeoPixels
@@ -14,8 +14,8 @@ NEOPIXEL_COUNT = 16             # One LED per key
 NEOPIXEL_BRIGHTNESS = 0.3       # 0.0 – 1.0 (keep it low to not blind yourself)
 
 # ─── OLED DISPLAY ────────────────────────────────────────────────────────────
-OLED_SDA = board.GPIO1
-OLED_SCL = board.GPIO2
+OLED_SDA = board.GPIO9
+OLED_SCL = board.GPIO10
 OLED_WIDTH  = 128
 OLED_HEIGHT = 64
 OLED_ADDR   = 0x3C             # Default I2C address, try 0x3D if it doesn't show up
@@ -23,10 +23,10 @@ OLED_ADDR   = 0x3C             # Default I2C address, try 0x3D if it doesn't sho
 # ─── MODE SWITCH ──────────────────────────────────────────────────────────────
 # This pin is read in boot.py to decide USB vs BT mode
 # HIGH (pulled up) = USB HID   |   LOW (switch to GND) = Bluetooth
-MODE_PIN = board.GPIO0
+MODE_PIN = board.GPIO12
 
 # ─── BLUETOOTH ────────────────────────────────────────────────────────────────
-BT_DEVICE_NAME = "Next-Gen MacroPad"
+BT_DEVICE_NAME = "Dragon's Macro Pad"
 
 # ─── DEBOUNCE ─────────────────────────────────────────────────────────────────
 DEBOUNCE_MS = 20  
