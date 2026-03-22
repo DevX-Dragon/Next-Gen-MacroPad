@@ -38,5 +38,6 @@ The Next-Gen MacroPad is a fully DIY, multi-purpose macro pad kit. It's got prog
 | [Key Caps](https://www.aliexpress.com/item/1005004525231272.html) | 16 | $ 10 | Plain Key Caps, Pack of 20 |
 | [OLED Display](https://www.duino.lk/product/oled-display-0-96-inche-blue-yellow/) | 1 | $ 4 | Local Hardware Store |
 | [6x6x5mm THT Push Buttons](https://www.duino.lk/product/tactile-push-button-switch-2pins-6x6x5mm/) | 2 | $ 1 | Local hardware Store |
-| 3D Printing | 1 | $ 10 | Local 3D Printing Service |
-| | **Total** | **$ 170** | 
+| [SK6812 Mini E LED](https://www.aliexpress.com/item/1005008308801366.html) | 16 | $ 1 | Pack of 20 | 
+| 3D Printing | 1 | $ 15 | Printing Legion |
+| | **Total** | **$ 176** | 
